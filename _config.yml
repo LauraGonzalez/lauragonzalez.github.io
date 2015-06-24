@@ -1,0 +1,13 @@
+# Site settings
+title: Laura Gonzalez
+email: hi@lauragonzalez.me
+description: > # this means to ignore newlines until "baseurl:"
+  This is the digital corner of Laura G., a software engineer from Tijuana, Mexico.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://lauragonzalez.me" # the base hostname & protocol for your site
+twitter_username: postmoderngrl
+github_username:  LauraGonzalez
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
